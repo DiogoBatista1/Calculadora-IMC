@@ -1,0 +1,15 @@
+/media/diogo/HD/Projects/Basic/bin/Debug/net6.0/Basic
+/media/diogo/HD/Projects/Basic/bin/Debug/net6.0/Basic.deps.json
+/media/diogo/HD/Projects/Basic/bin/Debug/net6.0/Basic.runtimeconfig.json
+/media/diogo/HD/Projects/Basic/bin/Debug/net6.0/Basic.dll
+/media/diogo/HD/Projects/Basic/bin/Debug/net6.0/Basic.pdb
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.csproj.AssemblyReference.cache
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.GeneratedMSBuildEditorConfig.editorconfig
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.AssemblyInfoInputs.cache
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.AssemblyInfo.cs
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.csproj.CoreCompileInputs.cache
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.dll
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/refint/Basic.dll
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.pdb
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/Basic.genruntimeconfig.cache
+/media/diogo/HD/Projects/Basic/obj/Debug/net6.0/ref/Basic.dll
